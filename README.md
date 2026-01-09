@@ -1,6 +1,6 @@
 <div align="center">
 
-# WindowsTweak Banner
+# WindowsTweak
 
 ![Platform](https://img.shields.io/badge/Platform-Windows_10_%7C_11-003B6F?style=for-the-badge&logo=windows&logoColor=FFD43B&labelColor=1B1818)
 ![Python](https://img.shields.io/badge/Python-3.8%2B-FFD43B?style=for-the-badge&logo=python&logoColor=FFD43B&labelColor=1B1818)
@@ -69,3 +69,4 @@ Built with **PyQt5**, it offers a modern dark-themed interface to manage Windows
 | **requests**     | Apache 2.0     | Downloading Portable Tools                      |
 | **WMI**          | MIT            | Hardware Information Retrieval                  |
 | **Sysinternals** | Microsoft EULA | Optional downloadable tools (Autoruns, ProcExp) |
+
