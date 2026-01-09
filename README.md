@@ -9,7 +9,7 @@
 
 <br>
 
-**WindowsTweak** is a consolidated, high-performance maintenance suite designed for **system monitoring, portable tool management, and automated repair**.
+**WindowsTweak** is a high-performance maintenance suite designed for **system monitoring, portable tool management, and automated repair**.
 Built with **PyQt5**, it offers a modern dark-themed interface to manage Windows processes, network configurations, and hardware diagnostics without installation.
 
 </div>
@@ -69,4 +69,5 @@ Built with **PyQt5**, it offers a modern dark-themed interface to manage Windows
 | **requests**     | Apache 2.0     | Downloading Portable Tools                      |
 | **WMI**          | MIT            | Hardware Information Retrieval                  |
 | **Sysinternals** | Microsoft EULA | Optional downloadable tools (Autoruns, ProcExp) |
+
 
